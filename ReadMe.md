@@ -6,7 +6,7 @@
 
 &nbsp;
 
-## Use case: miniscope TTL box use case 
+## Use case: miniscope TTL and solinoid box 
 An example use case outlined here is to interface between matlab/python and inscopix miniscope equipment to trigger both 12V solinoid valves and 5V TTL pulses.
 
 <img src="img/miniscope_ttl_box.jpg" width="367" height="260" title="miniscope TTL box with 4 TTL input/ouput and 12V power input and solinoid circuitry.">
