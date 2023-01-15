@@ -1,6 +1,6 @@
 # 3D printable TTL box for arduino
 
-3d printed TTL box that can interface between python or matlab to trigger experiment contingencies. Included are 3D models creased using fusion 360 and 3d printing .stl files. 
+3d printed TTL box that can interface between python or matlab to trigger experiment contingencies. Included are 3D models created using Fusion 360 and 3D printing .stl files. 
 
 <img src="img/renders/TTL_box_render1.png" width="375" height="250"> <img src="img/renders/TTL_box_render2.png" width="375" height="250"> <img src="img/renders/TTL_box_render3.png" width="375" height="250"> <img src="img/renders/TTL_box_render4.png" width="375" height="250">
 
