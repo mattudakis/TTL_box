@@ -15,8 +15,8 @@ An example use case outlined here is to interface between matlab/python and insc
 
 ### How to
 1. [Required components](#components-needed)
-2. Solinoid circuitry
-3. 3D printing and essembly
+2. [Solinoid circuitry](#solinoid-circuitry)
+3. [3D printing and assembly](#3d-printing-and-assembly)
 
 --- 
 
@@ -33,8 +33,16 @@ An example use case outlined here is to interface between matlab/python and insc
 | Circuit stripboard   | strip board to essemble solinoid circuit | RS   |   | 1  |
 | DC jack connector   | 5.5 X 2.1mm DC power Jack | RS   |   | 1  |
 | Capacitor   | 100uF 50V for power surge protection | RS   |   | 1  |
+| 3D printer   | 3D extrusion printer to fabricate case |    |   | 1  |
+| 3D printer filament   | PLA 3D Printer Filament |  RS  |   | 1  |
 
+&nbsp;
 
+### Solinoid circuitry
+
+&nbsp;
+
+### 3D printing and assembly
 
 
 
