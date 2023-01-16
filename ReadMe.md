@@ -32,7 +32,7 @@ An example use case outlined here is to interface between matlab/python and insc
 | 1KOhm Resistor	      | Resistor for solinoid circuit  | RS 			| 			    | 2         |
 | Circuit stripboard   | strip board to essemble solinoid circuit | RS   |   | 1  |
 | DC jack connector   | 5.5 X 2.1mm DC power Jack | RS   |   | 1  |
-| capacitor   | 100uF 50V for power surge protection | RS   |   | 1  |
+| Capacitor   | 100uF 50V for power surge protection | RS   |   | 1  |
 
 
 
