@@ -33,7 +33,7 @@ An example use case outlined here is to interface between matlab/python and insc
 | Circuit stripboard   | Strip board to essemble solinoid circuit | RS   |   | 1  |
 | DC jack connector   | 5.5 X 2.1mm DC power Jack | RS   |   | 1  |
 | Capacitor   | 100uF 50V for power surge protection | RS   |   | 1  |
-| Wire  | wWire to connect components | RS   |   | 1  |
+| Wire  | Wire to connect components | RS   |   | 1  |
 | Wire terminal strip  | Terminal strip to connect solinoids to TTL box | RS   |   | 4  |
 | 3D printer   | 3D extrusion printer to fabricate case |    |   | 1  |
 | 3D printer filament   | PLA 3D Printer Filament |  RS  |   | 1  |
