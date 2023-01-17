@@ -7,7 +7,8 @@
 &nbsp;
 
 ## Use case: miniscope TTL and solinoid box 
-An example use case outlined here is to interface between matlab/python and inscopix miniscope equipment to trigger both 12V solinoid valves and 5V TTL pulses.
+An example use case is interface between a matlab/python script that tracks animals live position and both 12V solinoid valves and inscopix miniscope equipment via BNC cable delivered 5V TTL pulses.
+Experiments required live position tracking of lab animals on a track. If certain zones of the track were occupied an automatic liquid reward would be delivered via opening of a solinoid valve. In addition the animals position within another zone would trigger optogenetic activation communicated via a TTL pulse to inscopix equipment.   
 
 <img src="img/miniscope_ttl_box.jpg" width="367" height="260" title="miniscope TTL box with 4 TTL input/ouput and 12V power input and solinoid circuitry.">
  
